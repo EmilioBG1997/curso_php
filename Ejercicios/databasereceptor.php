@@ -20,7 +20,6 @@
         else{
             echo "<p>NO NACIó</p>"; //En caso de que no haya funcionado la query
         }
-        //Pichanos una coca al fer y a mi UwU
-        //unas conchitas pa mi putaaaaaaaaaaaaaaaa
+        
 ?>
         
